@@ -6,9 +6,10 @@ This is the code of our article DiTBN: Detail Injection-Based Two-Branch Network
 The code directory structure is as follows:
 
 ------
-- `Model`：Store the pre-trained model pth for Ikonos, Geoeye-1 and WorldView-3；
+- `Model`：Store the pre-trained model pth for Ikonos, Geoeye-1 and WorldView-3.
 - `test.py`：code for testing.
 - `train.py`: code for training.
+- `MTF_filter.py`: code for upsampling images.
 
 ## Environment
 
