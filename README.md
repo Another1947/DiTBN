@@ -8,7 +8,7 @@ The code directory structure is as follows:
 ------
 - `Model`：Store the pre-trained model pth for Ikonos, Geoeye-1 and WorldView-3；
 - `test.py`：code for testing.
-- `train.py`:code for training.
+- `train.py`: code for training.
 
 ## Environment
 
