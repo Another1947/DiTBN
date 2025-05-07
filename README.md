@@ -18,4 +18,5 @@ python 3.6
 tensorflow 1.15.0
 ```
 ## License
-[Wang, W.; Zhou, Z.; Zhang, X.; Lv, T.; Liu, H.; Liang, L. DiTBN: Detail Injection-Based Two-Branch Network for Pansharpening of Remote Sensing Images. Remote Sens. 2022, 14, 6120.]([url](https://www.mdpi.com/2072-4292/14/23/6120))
+[**Click here**]([url](https://www.mdpi.com/2072-4292/14/23/6120))
+Wang, W.; Zhou, Z.; Zhang, X.; Lv, T.; Liu, H.; Liang, L. DiTBN: Detail Injection-Based Two-Branch Network for Pansharpening of Remote Sensing Images. Remote Sens. 2022, 14, 6120.
